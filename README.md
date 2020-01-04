@@ -1,2 +1,3 @@
-# py-have-i-been-hacked-checker
-Simple terminal App that you can use to check if your Password or Email have been compromised
+# Have I Been Hacked Chacker
+* Simple terminal App that checks if your Email or Password has been compromised using the haveibeenpwned API
+* API LINK : https://haveibeenpwned.com/API/v3
